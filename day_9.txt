@@ -1,0 +1,17 @@
+1.Different cloud computing service models are
+     -Infrastructure as a service(IaaS)
+     -Platform as a service(PaaS)
+     -Software as a service(SaaS)
+
+2.A basket contains 3 blue, 5 black and 3 red balls. If 3 balls are drawn at random, 
+probability that all are black:- 
+     -probability that all 3 are black= 5C3/11C3 =2/33
+
+3.3 20 78 334 1696 ?
+     -(c)10206
+
+4.15.002 × ? × 25.0210 = 7113.018
+     -(a)19
+
+5.The sum of four consecutive integers is 102. The product of the extremes:
+     -(c)648
